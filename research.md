@@ -6,7 +6,7 @@ subtitle:
 
 My research focus is on the experimental characterisation and modelling of the void structure and fluid flow in porous materials.
 
-I am an experienced modeller and scientific programmer. I am the principal programmer of the void network simulation package, PoreXpert, and contribute to its continuous development.
+I am an experienced modeller and scientific programmer. I am the principal programmer of the void network simulation package [PoreXpert](http://www.porexpert.com), and contribute to its continuous development.
 
 
 ### List of publications
