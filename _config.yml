@@ -14,7 +14,7 @@ baseurl: "/"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: 
+title: G.M. Laudone
 
 # Short description of your site
 description:
@@ -28,9 +28,8 @@ avatar: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Teaching: "teaching"
-  Research: "Research"
-  About Me: "aboutme"
+  Teaching: "http://gmlaudone.github.io/teaching"
+  Research: "http://gmlaudone.github.io/research"
   
 # --- Footer options --- #
 
@@ -67,7 +66,7 @@ footer-links-active:
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/London"
 markdown: kramdown
 highlighter: pygments
 permalink: /:year-:month-:day-:title
