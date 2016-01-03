@@ -19,4 +19,4 @@ These are the courses I am currently teaching:
 **Year 2**
 
 * Classical Thermodynamics.
-* Quantum mechanics workshop.
+* Quantum Mechanics workshop.

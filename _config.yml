@@ -14,7 +14,7 @@ baseurl: "/"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: G.M. Laudone
+title: Giuliano Maurizio Laudone
 
 # Short description of your site
 description:
@@ -27,7 +27,7 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Home: "http://gmlaudone.github.io/"
   Teaching: "http://gmlaudone.github.io/teaching"
   Research: "http://gmlaudone.github.io/research"
   
