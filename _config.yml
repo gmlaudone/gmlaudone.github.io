@@ -41,6 +41,7 @@ author:
   github: gmlaudone    # eg. daattali
   twitter: gmlaudone   # eg. daattali
   googleplus: +GiulianoMLaudone
+
 # Select which links to show in the footer
 footer-links-active:
   rss: false
