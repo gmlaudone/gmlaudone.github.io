@@ -9,7 +9,7 @@ My research focus is on the experimental characterisation and modelling of the v
 I am an experienced modeller and scientific programmer. I am the principal programmer of the void network simulation package [PoreXpert](http://www.porexpert.com), and contribute to its continuous development.
 
 
-### List of publications
+### List of research publications
 
 * Levy, C. L., Matthews, G. P., Laudone, G. M., Gribble, C. M., Turner, A., Ridgway, C. J., Gane, P. A. C. (2015). Diffusion and Tortuosity in Porous Functionalized Calcium Carbonate. INDUSTRIAL & ENGINEERING CHEMISTRY RESEARCH, 54(41), 9938-9947. 
 * Laudone, G. M., Gribble, C. M., Jones, K. L., Collier, H. J., & Matthews, G. P. (2015). Validated a priori calculation of tortuosity in porous materials including sandstone and limestone. CHEMICAL ENGINEERING SCIENCE, 131, 109-117. 
